@@ -3,11 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
-- [Tomato and onion chutney](https://www.youtube.com/watch?v=4xPWKKeZp1U)
-- [Shahi tukra](https://www.youtube.com/watch?v=Z5sOcVDXucA)
-- [Potato and cheese bites](https://www.youtube.com/watch?v=XJ4FIrfT22k)
-- [chicken biryani](https://www.youtube.com/watch?v=ZcTt1r9FvKA)
-- [home remedy](https://www.youtube.com/watch?v=O2ebNXndYjw)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
